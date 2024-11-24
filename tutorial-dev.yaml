@@ -1,4 +1,4 @@
 test:
-  key1: dev-value1
+  key1: dev-value1-converted
   key2: dev-value2
   key3: dev-value3
