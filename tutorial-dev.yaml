@@ -1,8 +1,3 @@
-spring:
-  cloud:
-    config:
-      overrideNone: true
-
 test:
   key1: dev-value1-converted
   key2: dev-value2
